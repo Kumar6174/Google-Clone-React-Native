@@ -1,0 +1,4 @@
+export const GOOGLE_API_KEY = 'AIzaSyC2vMOAsFuxT5KR6lvYtSMpdxRBYCSwYys';
+export const SEARCH_ENGINE_ID = '863b5fa8775bd49bd';
+export const SERP_API_KEY = '3eff31f16fa0a6079605a43140e923d3f254281f7bc1a27ee684224596e7cce2';
+
